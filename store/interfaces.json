@@ -1,0 +1,5 @@
+{
+  "custom-wheel-fortune": {
+    "component": "CustomWheelFortune"
+  }
+}
